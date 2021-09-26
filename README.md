@@ -1,5 +1,9 @@
 # Instagram-like D-App
 
+```
+Editors: Pavan Ananth Sharma & Darren Smith Michel
+```
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A simple Ethereum-based [Instagram](https://www.instagram.com/)-like decentralized application (dapp) where you can post images, text, and view it but here the catch is, the whole process and functionality is powered by smart contracts
