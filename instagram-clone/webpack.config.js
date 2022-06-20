@@ -1,4 +1,4 @@
-var path = require('path')
+var path = require('path');
 var webpack = require('webpack')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
