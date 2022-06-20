@@ -2,7 +2,7 @@
   "name": "instagram_v1",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Pavan Ananth Sh",
+  "author": "Pavan Ananth Sha",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --mode development --open --hot",
