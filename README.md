@@ -1,4 +1,4 @@
-# Instagram-like D-App
+# Instagram-like D-App 
  
 ```
 Editors: Pavan Ananth Sharma & Darren Smith Michel
