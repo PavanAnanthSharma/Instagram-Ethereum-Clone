@@ -3,7 +3,7 @@ import BootstrapVue from 'bootstrap-vue';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import 'bootstrap-vue/dist/bootstrap-vue.css'; 
 import 'babel-polyfill'; 
-import
+import 
 {
   Nav, Image, Card, Layout, Button, Modal, FormFile,
 }
